@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on making my own games
+- 🌱 I’m currently learning godot
+- ⚡ Fun fact: I love music as well and occasionally write my own
 <!--
 **RachelGoodrich/RachelGoodrich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
